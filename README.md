@@ -39,6 +39,7 @@ Also, follow [@akashnet\_](https://twitter.com/akashnet_) to stay in the loop wi
 - [Semantra](semantra)
 - [Serge](serge)
 - [Stable Diffusion](stable-diffusion-ui)
+- [Stable Diffusion](webui,extensions and ssh)
 - [StableStudio](StableStudio)
 - [Terminal GPT](tgpt)
 - [Text generation WebUi](text-generation-webui)
